@@ -6,7 +6,7 @@ The purpose of this analysis was to determine if there is a positive rating bias
 
 ## Results
 
-### Unpaid Review Data
+### Paid and Unpaid Review Data
 
 ![unpaid_summary](unpaid_summary.png)
 
