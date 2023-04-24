@@ -8,4 +8,4 @@ The purpose of this analysis was to determine if there is a positive rating bias
 
 ### Unpaid Review Data
 
-![unpaid_summary]('unpaid_summary.png')
+![unpaid_summary](unpaid_summary.png)
